@@ -5,7 +5,8 @@
 About
 -----
 This is a code repository written in MATLAB for the simulation study presented in the paper:
-Songdechakraiwut T., Shen L., Chung M.: Topological Learning and Its Application to Multimodal Brain Network Integration. In: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). pp. 166-176. Springer (2021)
+
+Songdechakraiwut T., Shen L., Chung M.: Topological learning and its application to multimodal brain network integration. In: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). pp. 166-176. Springer (2021)
 
 The simulation study aims to evaluate discriminative performance of the proposed topological loss against
 four well-known graph matching algorithms including graduated assignment [1], spectral matching [2], integer projected fixed point method [3] and reweighted random walk matching [4].
